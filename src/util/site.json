@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
-    "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
+    "title": "EmpowerWIT - Empowering Women in the field of Information Technology.",
+    "titleTemplate": "A social action campaign that seeks to encourage and inspire qualified housewives to pursue a career in information technology by training them in the fields of web development, digital marketing & web designing.",
+    "description": "A website for EmpowerWIT made with ❤ by Kesavi Web Solutions",
+    "siteUrl": "https://kesaviweb.com",
     "image": "/assets/logo-white.png",
     "iconimage": "/assets/favicon.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": "@empowerwit"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
