@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: EmpowerWIT
 tagline: Empowerting Women in Information Technology
-featuredImage: https://res.cloudinary.com/ontraveldiary/image/upload/v1620274079/woman-apron-prepares-food-searches-recipe-internet-online-cooking-training_356877-385_a7quvt.jpg
+featuredImage: /assets/programmer-working-with-sql_52683-22997.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
