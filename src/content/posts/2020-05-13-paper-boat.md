@@ -10,9 +10,7 @@ In visual arts, a model sheet, also known as a character board, character sheet,
 
 Model sheets are required when [multiple artists](https://example.com) are involved in the production of an animated film, game, or comic to help maintain continuity in characters from scene
 
-```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nLcRlH0Kkd8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```
 
  to scene. In animation, one animator may only do one shot out of the several hundred that are required to complete an animated feature film. A character not drawn according to the production's standardized model is referred to as off-model.
 
