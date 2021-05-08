@@ -27,21 +27,15 @@ Empower WIT focuses on developing the potential of women through Information Tec
 
 You can earn money working from home. If you can create websites or know web design then you can start working as a freelance Web-Designer, which gives you a lot of freedom to work and your working hours will be flexible. Upwork, Freelancer, and Fiver are the most popular platform among freelancers looking for work.
 
-
-
 * Upwork: Upwork, is an American freelancing platform where enterprises and individuals connect in order to conduct business.
 * Freelancer: Freelancer is a term commonly used for a person who is self-employed and not necessarily committed to a particular employer long-term.
 * Fiver: Fiverr is an Israeli online marketplace for freelance services.
 
-![](https://lh4.googleusercontent.com/mjmbAEdRX40YVGtNxmuv1gGQ78PrvreXgcwzSdKvmDf77fnuB4yd0oVdkzqLIsHXIfGfQZIc6bol3Cw6TqRkN5wHkXSTTcM2AQHV9I3H76kWdllJPkEg128YIL7lFQJe3XgC2SA)
+![salary-insights](/assets/pic3.jpg "Average Salary of Freelance Web Designer")
 
 Source: Taken from [Salary for a Web Designer](https://www.payscale.com/research/IN/Job=Web_Designer/Salary)
 
-
-
 All we need from you is a mid-range Desktop with a broadband internet connection.
-
-
 
 Minimum requirements for a Web Designer
 
