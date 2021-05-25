@@ -11,6 +11,8 @@ featuredImage: /assets/4896140.jpg
 ---
 <!--StartFragment-->
 
+Written By: Tannu Verma, Intern at KWS
+
 Can you manage to take out time to pursue your career while caring for your family? Do you still dream to achieve the financial and personal goals that you have set for yourself? Do you wish to earn income and spend it on your priorities?
 
 It is the 21st century, where having an equilibrium with work-life balance is not tough because with free internet and the opportunities to do work from home makes it easier so you should discriminate the things as per their priorities. You are well-educated to seek an opportunity and you can change your mentality from a graduate housewife to an earning graduate. No one can undervalue you if you have power in your hands and if you know you are on the right track. Your families will appreciate your hard work, your children will learn from you and they will get to know nothing is impossible if you are self-determined.
